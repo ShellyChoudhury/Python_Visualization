@@ -1,6 +1,7 @@
-# Visualization using Python(Numpy,pandas and Matplotlib )
+# Company Saels data Visualization using Python(Numpy,pandas and Matplotlib )
+The company sales data contains total sales and total profits  of  6 products for beauty and hyigene  month wise. Visualizations were plotted using Matplotlib in python.
  
-Reading  Total profit of all months and showing  it using a line plot
+## Reading  Total profit of all months and showing  it using a line plot
 
 
 ![output_0_1](https://user-images.githubusercontent.com/107675917/195077958-a3c5aee3-9791-402f-acac-567a58affa5b.png)
