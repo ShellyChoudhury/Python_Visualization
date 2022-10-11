@@ -24,13 +24,17 @@ The company sales data contains total sales and total profits  of  6 products fo
 ## Reading  the total profit of each month and showing  it using the histogram to see most common profit ranges
 ![output_0_0](https://user-images.githubusercontent.com/107675917/195110954-3890b895-18e5-4955-abe2-ba963a065b17.png)
 
-## Calculating  total sale data for last year for each product and show it using a Pie chart10.	Read Bathing soap facewash of all months and display it using the Subplot
+## Calculating  total sale data for last year for each product and showing it using a Pie chart10.	Read Bathing soap facewash of all months and display it using the Subplot
 ![output_0_0](https://user-images.githubusercontent.com/107675917/195113045-1a660354-a148-4917-af23-d0ad21f66dfe.png)
 
+## Calculating  total sale data for last year for each product and showing it using a Pie chart
+
+![output_0_0](https://user-images.githubusercontent.com/107675917/195114041-cc4e2f63-f03b-4e02-ac78-421815e30ae6.png)
 
 
-## Read all product sales data and show it using the stack plot
-otlib 
+## Reading  all product sales data and showing  it using the stack plot
+
+![output_0_0](https://user-images.githubusercontent.com/107675917/195114290-4a45798f-bba9-4537-8487-f027ebd5092b.png)
 
 
 
