@@ -1,8 +1,9 @@
- Visualization using Python and Matplotlib 
-1.	Read Total profit of all months and show it using a line plot
-2.	Total profit data provided for each month. Generated line plot must include the following properties: –
+ Visualization using Python(Numpy,pandas and Matplotlib )
+Reading  Total profit of all months and showing  it using a line plot
 X label name = Month Number
 Y label name = Total profile
+![output_0_1](https://user-images.githubusercontent.com/107675917/195077958-a3c5aee3-9791-402f-acac-567a58affa5b.png)
+
 3.	Get Total profit of all months and show line plot with the following Style properties
 
    Generated line plot must include following Style properties: –
