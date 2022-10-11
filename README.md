@@ -31,6 +31,8 @@ Y label name = Total profile
 
 
 10.	Read Bathing soap facewash of all months and display it using the Subplot
+![output_0_0](https://user-images.githubusercontent.com/107675917/195069387-21bfb868-b008-47de-b3ad-a4771d2a676a.png)
+
 
 11.	Read all product sales data and show it using the stack plot
 
