@@ -1,4 +1,4 @@
-# Heading1 Visualization using Python(Numpy,pandas and Matplotlib )
+# Visualization using Python(Numpy,pandas and Matplotlib )
  
 Reading  Total profit of all months and showing  it using a line plot
 
