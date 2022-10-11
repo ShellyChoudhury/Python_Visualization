@@ -1,4 +1,4 @@
-Data Visualization using Python and Matplotlib 
+ Visualization using Python and Matplotlib 
 1.	Read Total profit of all months and show it using a line plot
 2.	Total profit data provided for each month. Generated line plot must include the following properties: –
 X label name = Month Number
@@ -27,17 +27,13 @@ Y label name = Total profile
  
 8.	Read the total profit of each month and show it using the histogram to see most common profit ranges
 
-9.	Calculate total sale data for last year for each product and show it using a Pie chart
-
-
-10.	Read Bathing soap facewash of all months and display it using the Subplot
+9.	Calculate total sale data for last year for each product and show it using a Pie chart10.	Read Bathing soap facewash of all months and display it using the Subplot
 ![output_0_0](https://user-images.githubusercontent.com/107675917/195069387-21bfb868-b008-47de-b3ad-a4771d2a676a.png)
 
 
 11.	Read all product sales data and show it using the stack plot
+otlib 
 
-
- 
 
 
 
