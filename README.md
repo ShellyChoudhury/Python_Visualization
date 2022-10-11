@@ -7,7 +7,7 @@ The company sales data contains total sales and total profits  of  6 products fo
 ![output_0_1](https://user-images.githubusercontent.com/107675917/195077958-a3c5aee3-9791-402f-acac-567a58affa5b.png)
 
  
-## Reading  all product sales data and show it  using a multiline plot
+## Reading  all products sales data and showing  it  using a multiline plot
    ![output_0_0](https://user-images.githubusercontent.com/107675917/195103009-26220602-9933-47ba-8563-f83f779ace6c.png)
 
  
@@ -25,10 +25,11 @@ The company sales data contains total sales and total profits  of  6 products fo
 ![output_0_0](https://user-images.githubusercontent.com/107675917/195110954-3890b895-18e5-4955-abe2-ba963a065b17.png)
 
 ## Calculating  total sale data for last year for each product and show it using a Pie chart10.	Read Bathing soap facewash of all months and display it using the Subplot
-![output_0_0](https://user-images.githubusercontent.com/107675917/195069387-21bfb868-b008-47de-b3ad-a4771d2a676a.png)
+![output_0_0](https://user-images.githubusercontent.com/107675917/195113045-1a660354-a148-4917-af23-d0ad21f66dfe.png)
 
 
-11.	Read all product sales data and show it using the stack plot
+
+## Read all product sales data and show it using the stack plot
 otlib 
 
 
